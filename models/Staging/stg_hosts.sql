@@ -7,4 +7,4 @@ select
     end as is_superhost,
     created_at,
     updated_at
-from airbnb.raw.raw_hosts;
+from airbnb.raw.raw_hosts
